@@ -1,0 +1,28 @@
+# Web Framework for API and Web Application
+Flask  # Web framework for building the API and web application.
+#Flask-RESTful  # Extension for creating RESTful APIs with Flask.
+
+# Deep Learning Frameworks
+Keras  # High-level deep learning library used for model training.
+
+# Data Handling and Manipulation
+numpy  # Library for numerical computations.
+pandas  # Data manipulation and analysis library.
+
+# Image Processing and Computer Vision
+opencv-python  # Computer vision library for image processing.
+
+# Machine Learning and Evaluation
+scikit-learn  # Machine learning library for data analysis and modeling.
+
+# Data Visualization
+matplotlib  # Library for creating static, animated, and interactive visualizations.
+
+# Deep Learning Framework
+tensorflow  # Open-source deep learning framework for neural network development.
+
+# Web Server for Deployment
+#gunicorn  # Web server used for deploying Flask applications.
+
+# Interactive Python Development Environment
+jupyterlab  # Interactive development environment for Python.

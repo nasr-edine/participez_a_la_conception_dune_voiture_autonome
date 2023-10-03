@@ -1,0 +1,36 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+*.env
+*.venv
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
+
+# Compiled bytecode
+*.pyo
+*.pyd
+
+# Editor or IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python package management
+*.egg-info/
+dist/
+build/
+
+# Other project-specific files or directories to ignore
+config.ini  # Configuration files
